@@ -61,4 +61,24 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 
 ### 📫 İletişim
 
-Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak istersen bana <a href="mailto:rraeyz@hotmail.com">buradan</a> ulaşabilirsin!
+Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak istersen:
+
+<p align="left">
+  <a href="mailto:rraeyz@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/rraeyz">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rraeyz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/in/rraeyz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" />
+</div>
