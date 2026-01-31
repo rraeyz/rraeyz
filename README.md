@@ -48,18 +48,12 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 
 ---
 
+
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rraeyz&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%" />
-  
+  <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  
-  <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true&mode=weekly" height="150" alt="Streak" />
-  
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=rraeyz&label=VIEWS&color=00ff00&style=for-the-badge" alt="Views" />
-</div>
 
 ---
 
