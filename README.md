@@ -51,18 +51,15 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rraeyz&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%" />
+  
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=rraeyz&label=Profile+Views&color=00ff00&style=flat" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true&mode=weekly" height="150" alt="Streak" />
+  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rraeyz&label=VIEWS&color=00ff00&style=for-the-badge" alt="Views" />
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rraeyz&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<div align="center">
-  <img src="https://techstack-readme-stats.vercel.app/api/v1?username=rraeyz&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="TechStack Stats" />
-</div>
-
 
 ---
 
