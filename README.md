@@ -1,4 +1,4 @@
-# Merhaba, ben İdris! 👋
+# Merhaba,
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Code%20&%20Cosmos&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20Student%20@%20Ataturk%20University&descAlignY=60" width="100%"/>
