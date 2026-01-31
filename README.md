@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Code%20&%20Cosmos&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20Student%20@%20Ataturk%20University&descAlignY=60" width="100%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Astrophysics+Student+%F0%9F%9A%80;Arch+Linux+User+%F0%9F%90%A7;Python+Developer+%F0%9F%90%8D;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 Hakkımda
@@ -12,6 +14,12 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 * 🐧 **Linux (Arch)** ve terminal dünyasında yaşamayı seviyorum; sunucu yönetimleri ilgimi çekiyor.
 * 🌐 **Web Teknolojileri** (Flask, PHP, Veritabanları) üzerine kendimi geliştiriyorum.
 * 🛡️ **Siber Güvenlik** ve ağ analiz araçlarıyla (Wireshark, Nmap) denemeler yapıyorum.
+
+<div align="center">
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <br>
+</div>
 
 ---
 
@@ -40,15 +48,17 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 
 ---
 
-
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=rraeyz&label=Profile+Views&color=00ff00&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
 ### 📫 İletişim
 
-Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak istersen bana buradan ulaşabilirsin!
+Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak istersen bana <a href="mailto:rraeyz@hotmail.com">buradan</a> ulaşabilirsin!
