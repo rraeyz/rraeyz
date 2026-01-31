@@ -43,8 +43,6 @@ Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırların
 
 ### 📊 GitHub İstatistiklerim
 
-### 📊 GitHub İstatistiklerim
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
