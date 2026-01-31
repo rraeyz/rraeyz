@@ -65,7 +65,7 @@ Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak is
   <a href="mailto:rraeyz@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/rraeyz">
+  <a href="https://discord.gg/JKzG7Mk5">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rraeyz">
