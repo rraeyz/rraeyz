@@ -1,65 +1,61 @@
-# İdris Avlar
+<div align="center">
 
-**Astrofizik öğrencisi @ Atatürk Üniversitesi** · Python · Linux · Siber güvenlik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d1f,100:00b34a&height=240&section=header&text=%C4%B0dris%20Avlar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Astrophysics%20Student%20%40%20Ataturk%20University&descSize=20&descAlignY=58" width="100%" />
 
-Evrenin verisini analiz eden yazılımlar geliştiriyorum. Gözlem verisinden bilimsel sonuca giden yolu otomatikleştirmeye, bunu yaparken de sistemleri ve ağları daha iyi anlamaya çalışıyorum.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E676&center=true&vCenter=true&width=640&lines=Astrofizik+%C3%B6%C4%9Frencisi+%F0%9F%94%AD;Python+%7C+Linux+%7C+Siber+G%C3%BCvenlik+%F0%9F%9B%A1%EF%B8%8F;Gözlem+verisinden+bilimsel+sonuca;PanCosm+geli%C5%9Ftiriyorum+%F0%9F%9B%B0%EF%B8%8F" alt="typing" />
 
-*Astrophysics student building open-source tools for observational astronomy.*
-
----
-
-## 🔭 Öne çıkan proje
-
-### [PanCosm](https://github.com/rraeyz/PanCosm)
-Gözlem gecesinin tamamı için tek bir çalışma masası: **gece planlama → teleskop/kamera kontrolü → kalibrasyon → fotometri → spektroskopi → O–C, periyot analizi ve çift yıldız modelleri → raporlama.**
-
-- Windows, macOS ve Linux; Türkçe, İngilizce, Almanca ve İspanyolca arayüz
-- GPU hızlandırmalı hesaplama (Vulkan / Metal / DirectX 12)
-- Teleskop güvenliği için bağımsız denetleyici süreç, tekrarlanabilir proje dosyaları
-- Simüle verilerle ve gerçek verilerle (HAT-P-32 b geçişi) otomatik test
-- GPL-3.0 · `Python`
+</div>
 
 ---
 
-## 🛠️ Diğer projeler
+## 👨‍🚀 Hakkımda
 
-| Proje | Ne yapıyor |
+Ben **Atatürk Üniversitesi**'nde Astrofizik öğrencisiyim. Evrenin verisini analiz eden yazılımlar geliştiriyor, aynı zamanda terminalin ve ağların derinliklerinde kayboluyorum.
+
+- 🐍 **Python** ile bilimsel analiz ve otomasyon araçları geliştiriyorum
+- 🐧 **Linux (Arch / CachyOS)** ile yaşıyorum; sistem ve sunucu yönetimi ilgimi çekiyor
+- 🌐 **Web**: Flask, TypeScript, veritabanları üzerinde projeler yapıyorum
+- 🛡️ **Siber güvenlik** ve ağ analizi araçlarıyla (Wireshark, Nmap) denemeler yapıyorum
+- 🔬 Sıcak Jüpiterlerin yörünge periyodu değişimleri (O–C analizi) üzerine araştırma yürütüyorum
+
+---
+
+## 🔭 Öne Çıkan Proje: PanCosm
+
+> **Gözlem gecesinin tamamı için tek bir çalışma masası.**
+> `gece planlama` → `teleskop/kamera kontrolü` → `kalibrasyon` → `fotometri` → `spektroskopi` → `O–C, periyot, yörünge ve çift yıldız modelleri` → `rapor`
+
+| | |
 |---|---|
-| [blog_ynh](https://github.com/rraeyz/blog_ynh) | [tek cümlelik açıklama] |
-| [kunye_ynh](https://github.com/rraeyz/kunye_ynh) | [tek cümlelik açıklama] |
-| [atak](https://github.com/rraeyz/atak) | Astronomi kulüpleri için etkinlik, blog, QR ile yoklama ve yönetim paneli olan platform |
-| [raporcuweb](https://github.com/rraeyz/raporcuweb) | Çoklu model destekli (GPT-4, Claude, Gemini) yapay zekâ rapor üreticisi |
+| 🖥️ **Platform** | Windows · macOS · Linux (Raspberry Pi dahil) |
+| 🌍 **Diller** | Türkçe · English · Deutsch · Español |
+| ⚡ **Hız** | GPU hızlandırma (Vulkan / Metal / DirectX 12) |
+| 🛡️ **Güvenlik** | Bağımsız denetleyici: sorun olursa teleskobu park eder, kubbeyi kapatır |
+| ✅ **Doğrulama** | Simüle ve gerçek veriyle (HAT-P-32 b geçişi) otomatik test |
+| 📜 **Lisans** | GPL-3.0 |
+
+[![PanCosm](https://img.shields.io/badge/PanCosm-Repo'ya%20git-00b34a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rraeyz/PanCosm)
 
 ---
 
-## 🔬 Şu an
+## 🛠️ Diğer Projeler
 
-- **PanCosm**'u geliştirmeye devam ediyorum
-- Sıcak Jüpiterlerin yörünge periyodu değişimleri üzerine bir araştırma projesi yürütüyorum (O–C analizi)
-- Arch / CachyOS üzerinde yerel yapay zekâ ve geliştirme ortamı kuruyorum
-
----
-
-## 🧰 Kullandıklarım
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
-
-Bilimsel hesaplama: NumPy · Pandas · Matplotlib · Astropy
-Güvenlik ve ağ: Nmap · Wireshark · Aircrack-ng
+| Proje | Açıklama |
+|---|---|
+| [**blog_ynh**](https://github.com/rraeyz/blog_ynh) | [tek cümlelik açıklama] |
+| [**kunye_ynh**](https://github.com/rraeyz/kunye_ynh) | [tek cümlelik açıklama] |
+| [**atak**](https://github.com/rraeyz/atak) | Astronomi kulüpleri için etkinlik, blog, QR ile yoklama ve yönetim paneli olan platform |
+| [**raporcuweb**](https://github.com/rraeyz/raporcuweb) | Çoklu model destekli (GPT-4, Claude, Gemini) yapay zekâ rapor üreticisi |
 
 ---
 
-## 📫 İletişim
+## ⚙️ Yetenekler & Araçlar
 
-Uzay, kodlama veya Arch Linux üzerine konuşmak istersen:
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESİN)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](DISCORD_LİNKİN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_LİNKİN)
-[![Web](https://img.shields.io/badge/rraeyz.me-000000?style=flat&logo=firefox&logoColor=white)](https://rraeyz.me)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557c?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=
