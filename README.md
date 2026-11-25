@@ -24,7 +24,7 @@ Ben **Atatürk Üniversitesi**'nde Astrofizik öğrencisiyim. Evrenin verisini a
 > **Gözlem gecesinin tamamı için tek bir çalışma masası.**
 > `gece planlama` → `teleskop/kamera kontrolü` → `kalibrasyon` → `fotometri` → `spektroskopi` → `O–C, periyot, yörünge ve çift yıldız modelleri` → `rapor`
 
-| | |
+| Özellik | Detay |
 |---|---|
 | 🖥️ **Platform** | Windows · macOS · Linux (Raspberry Pi dahil) |
 | 🌍 **Diller** | Türkçe · English · Deutsch · Español |
@@ -70,10 +70,12 @@ Ben **Atatürk Üniversitesi**'nde Astrofizik öğrencisiyim. Evrenin verisini a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rraeyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00b34a&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rraeyz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e676&icon_color=00b34a&text_color=c9d1d9&hide=stars,issues,contribs&hide_rank=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraeyz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rraeyz&bg_color=0d1117&color=00e676&line=00b34a&point=ffffff&area=true&area_color=00b34a&hide_border=true" width="100%" />
+
+<img src="https://raw.githubusercontent.com/rraeyz/rraeyz/output/github-snake-dark.svg" width="100%" alt="katkı yılanı" />
 
 </div>
 
