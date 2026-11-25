@@ -1,86 +1,65 @@
-# Merhaba,
+# İdris Avlar
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Code%20&%20Cosmos&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20Student%20@%20Ataturk%20University&descAlignY=60" width="100%"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Astrophysics+Student+%F0%9F%9A%80;Arch+Linux+User+%F0%9F%90%A7;Python+Developer+%F0%9F%90%8D;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</div>
+**Astrofizik öğrencisi @ Atatürk Üniversitesi** · Python · Linux · Siber güvenlik
 
-### 👨‍💻 Hakkımda
+Evrenin verisini analiz eden yazılımlar geliştiriyorum. Gözlem verisinden bilimsel sonuca giden yolu otomatikleştirmeye, bunu yaparken de sistemleri ve ağları daha iyi anlamaya çalışıyorum.
 
-Ben **Atatürk Üniversitesi'nde Astrofizik** öğrencisiyim. Evrenin sırlarını çözerken aynı zamanda terminalin derinliklerinde kaybolmayı seviyorum. Otomasyon, websiteleri, Python projeleri, sunucular ve siber güvenlikle ilgileniyorum.
-
-* 🐍 **Python** ile otomasyon scriptleri ve veri analizi araçları geliştiriyorum.
-* 🐧 **Linux (Arch)** ve terminal dünyasında yaşamayı seviyorum; sunucu yönetimleri ilgimi çekiyor.
-* 🌐 **Web Teknolojileri** (Flask, PHP, Veritabanları) üzerine kendimi geliştiriyorum.
-* 🛡️ **Siber Güvenlik** ve ağ analiz araçlarıyla (Wireshark, Nmap) denemeler yapıyorum.
-
-<div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-  <br>
-</div>
+*Astrophysics student building open-source tools for observational astronomy.*
 
 ---
 
-### 🛠️ Yetenekler & Araçlar
+## 🔭 Öne çıkan proje
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Data_Science-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analiz-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Görselleştirme-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+### [PanCosm](https://github.com/rraeyz/PanCosm)
+Gözlem gecesinin tamamı için tek bir çalışma masası: **gece planlama → teleskop/kamera kontrolü → kalibrasyon → fotometri → spektroskopi → O–C, periyot analizi ve çift yıldız modelleri → raporlama.**
 
-  <img src="https://img.shields.io/badge/Security-Nmap-black?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wifi-Aircrack--ng-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VCS-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Web-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+- Windows, macOS ve Linux; Türkçe, İngilizce, Almanca ve İspanyolca arayüz
+- GPU hızlandırmalı hesaplama (Vulkan / Metal / DirectX 12)
+- Teleskop güvenliği için bağımsız denetleyici süreç, tekrarlanabilir proje dosyaları
+- Simüle verilerle ve gerçek verilerle (HAT-P-32 b geçişi) otomatik test
+- GPL-3.0 · `Python`
 
 ---
 
+## 🛠️ Diğer projeler
 
-### 📊 GitHub İstatistiklerim
+| Proje | Ne yapıyor |
+|---|---|
+| [blog_ynh](https://github.com/rraeyz/blog_ynh) | [tek cümlelik açıklama] |
+| [kunye_ynh](https://github.com/rraeyz/kunye_ynh) | [tek cümlelik açıklama] |
+| [atak](https://github.com/rraeyz/atak) | Astronomi kulüpleri için etkinlik, blog, QR ile yoklama ve yönetim paneli olan platform |
+| [raporcuweb](https://github.com/rraeyz/raporcuweb) | Çoklu model destekli (GPT-4, Claude, Gemini) yapay zekâ rapor üreticisi |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rraeyz&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
+---
+
+## 🔬 Şu an
+
+- **PanCosm**'u geliştirmeye devam ediyorum
+- Sıcak Jüpiterlerin yörünge periyodu değişimleri üzerine bir araştırma projesi yürütüyorum (O–C analizi)
+- Arch / CachyOS üzerinde yerel yapay zekâ ve geliştirme ortamı kuruyorum
 
 ---
 
-### 📫 İletişim
+## 🧰 Kullandıklarım
 
-Benimle uzay, kodlama veya Arch Linux konfigürasyonları hakkında konuşmak istersen:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
-<p align="left">
-  <a href="mailto:rraeyz@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/536082718874664960">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rraeyz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rraeyz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://linktr.ee/rraeyz">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
+Bilimsel hesaplama: NumPy · Pandas · Matplotlib · Astropy
+Güvenlik ve ağ: Nmap · Wireshark · Aircrack-ng
 
 ---
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;" />
-</div>
+
+## 📫 İletişim
+
+Uzay, kodlama veya Arch Linux üzerine konuşmak istersen:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESİN)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](DISCORD_LİNKİN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](LINKEDIN_LİNKİN)
+[![Web](https://img.shields.io/badge/rraeyz.me-000000?style=flat&logo=firefox&logoColor=white)](https://rraeyz.me)
